@@ -9,7 +9,9 @@ R scripts dedicated to the statistical analysis and graphical output of the dist
 Scripts available:
 
   # motif_counts.py
+  
   # adjusted_anova.R
+  
   # motif_distance_vs_position.R
 
 How to:

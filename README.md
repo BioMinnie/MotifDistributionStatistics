@@ -2,6 +2,7 @@ Motif Distribution Statistics
 =============================
 
 The following scripts are tailored to suite the data published in Forde et al. 2015
+
 Running title: *E. coli* EC958 methylome
 
 Python script dedicated to counting motifs within genomic segments

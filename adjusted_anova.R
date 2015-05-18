@@ -6,8 +6,7 @@
 ## PURPOSE: Statistical evaluation of distribution of methylation motifs between the genome and MGEs  #
 ## Adjusted Analysis of Variance                                                                      #
 #                                                                                                     #
-## PUBLISHED: The following script is tailored to suit the data published in Forde et al. 2014        #
-#                                                                                                     #
+## PUBLISHED: The following script is tailored to suit the data published in Forde et al. 2015        #
 #######################################################################################################
 
 # Read in libraries required

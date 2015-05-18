@@ -18,7 +18,7 @@ Scripts available:
 
 How to:
 
-motif_analysis.py
+motif_counts.py
 
   1. Takes in a tab delimited file of motif positions in genome
   2. Takes in a tab delimited file of segments (in this case, 1 kbp segments with a 250bp overlap of the genome, generated using Bedtools makewindows option)

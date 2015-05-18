@@ -3,8 +3,8 @@
 ## AUTHOR: Melinda M Ashcroft                                                                         #
 ## AFFILIATION: Beatson Lab | SCMB - University of Queensland                                         #
 #                                                                                                     #
-## PURPOSE: Obtain count of each motif per input file specified segments							                #
-#                                                                       							                #
+## PURPOSE: Obtain count of each motif per input file specified segments							  #
+#                                                                       							  #
 ## PUBLISHED: The following script is tailored to suit the data published in Forde et al. 2015        #
 ## NOTE: Thank you Areej Alsheikh for your help                                                       #                                             #
 #######################################################################################################
